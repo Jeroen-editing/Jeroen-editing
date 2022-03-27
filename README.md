@@ -2,7 +2,7 @@
 - 👀 I’m interested mainly in JavaScript and front-end design.
 - 🌱 I’m currently learning Vue and React.
 - 💞️ I’m looking to collaborate on ... - if you need a fornt-end develeoper or JavaScript programmer.
-- 📫 How to reach me [on mail] (jdv.editing@gmail.com)
+- 📫 How to reach me <a href="mailto:jdv.editing@gmail.com">on mail</a>.
 
 <!---
 Jeroen-editing/Jeroen-editing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
